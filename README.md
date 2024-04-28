@@ -1,5 +1,5 @@
 # Bestia
-Bestia is a Go scraper to find common movies between your [Letterboxd](https://letterboxd.com/). watchlist and those of your friends
+Bestia is a Go scraper to find common movies between your [Letterboxd](https://letterboxd.com/) watchlist and those of your friends
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 

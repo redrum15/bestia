@@ -6,7 +6,7 @@ Bestia is a Go scraper to find common movies between your [Letterboxd](https://l
 
 # Prerequisites 📋
   - Go (1.22.2)
-  - A Letterboxd account
+  - At least two Letterboxd usernames
 # Install 🔧
 
 ```
